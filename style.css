@@ -8,5 +8,11 @@ h3 {
   color: green;
 }
 p {
-  color: yellow;
+  color: black;
+}
+h2.green {
+  color: green;
+}
+.aqua {
+  color: aquamarine;
 }
